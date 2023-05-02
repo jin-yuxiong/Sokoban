@@ -1,0 +1,2 @@
+D:\VisualStudio\Sokoban\Debug\Sokoban.exe
+D:\VisualStudio\Sokoban\Debug\Sokoban.pdb
